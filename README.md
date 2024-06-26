@@ -32,16 +32,30 @@ Aquest laboratori tracta sobre la compressió d'àudio, una tècnica crucial per
   - Informe Laboratori 2 : [Laboratori 2 - Compressió d'Àudio.pdf](https://github.com/Mariona-FT/Multimedia-Networks-XAMU/blob/main/Laboratoris/Laboratori%202%20-%20%C3%80udio/Laboratori%202%20-%20Compressi%C3%B3%20d'%C3%80udio.pdf)
   - Previ Laboratori 2: [Previ Laboratori 2 - Compressió d'Àudio.pdf ](https://github.com/Mariona-FT/Multimedia-Networks-XAMU/blob/main/Laboratoris/Laboratori%202%20-%20%C3%80udio/Previ%20Laboratori%202%20-%20Compressi%C3%B3%20d'%C3%80udio.pdf)
   -  Captures del wireshark dels exercicis: 2, 5 i 6
- 
 
-#### Laboratori 3: Imatge
+#### Laboratori 3: Compressió d'Imatge
 Aquesta pràctica es centra en la compressió d'imatges, amb l'objectiu d'entendre i aplicar diverses tècniques de compressió en formats com GIF, TIFF, PNG i JPEG. S'apren sobre la compressió amb pèrdua i sense pèrdua, analitzant com afecten la qualitat i la mida dels fitxers. També es veuen els conceptes com la codificació Huffman i la transformada discreta de cosinus, i exercicis pràctics amb programes especialitzats.
 
 - Carpeta general: [Laboratori 3 - Imatge](https://github.com/Mariona-FT/Multimedia-Networks-XAMU/tree/main/Laboratoris/Laboratori%203%20-%20Imatge)
   - Informe Laboratori 3: [Laboratori 3 - Compressió Imatge.pdf](https://github.com/Mariona-FT/Multimedia-Networks-XAMU/blob/main/Laboratoris/Laboratori%203%20-%20Imatge/Laboratori%203%20-%20Pr%C3%A0ctica%20Imatge.pdf)
   - Previ Laboratori 3: [Previ Laboratori 3 - Compressió Imatge.pdf ](https://github.com/Mariona-FT/Multimedia-Networks-XAMU/blob/main/Laboratoris/Laboratori%203%20-%20Imatge/Previ%20Laboratori%203%20-%20Compressi%C3%B3%20Imatge.pdf)
   -  Captures del wireshark dels exercicis: 3
- 
+
+#### Laboratori 4: Compressió de Vídeo
+Aquesta pràctica es centra en la compressió d'imatges, amb l'objectiu d'entendre i aplicar diverses tècniques de compressió en formats com GIF, TIFF, PNG i JPEG. S'apren sobre la compressió amb pèrdua i sense pèrdua, analitzant com afecten la qualitat i la mida dels fitxers. També es veuen els conceptes com la codificació Huffman i la transformada discreta de cosinus, i exercicis pràctics amb programes especialitzats.
+
+- Carpeta general: [Laboratori 4 - Video](https://github.com/Mariona-FT/Multimedia-Networks-XAMU/tree/main/Laboratoris/Laboratori%204%20-%20V%C3%ADdeo)
+  - Informe Laboratori 4: [Laboratori 4 - Compressió Video.pdf](https://github.com/Mariona-FT/Multimedia-Networks-XAMU/blob/main/Laboratoris/Laboratori%204%20-%20V%C3%ADdeo/Laboratori%204%20-%20Compressi%C3%B3%20Video.pdf)
+  - Previ Laboratori 4: [Previ Laboratori 4 - Compressió Video.pdf ](https://github.com/Mariona-FT/Multimedia-Networks-XAMU/blob/main/Laboratoris/Laboratori%204%20-%20V%C3%ADdeo/Previ%20Laboratori%204%20-%20Compressi%C3%B3%20Video.pdf)
+  -  Fitxers dels exercicis: 3 i 4
+
+#### Laboratori 5: Telefonia IP
+El laboratori s'enfoca en la tecnologia de telefonia IP, coneguda com a VoIP (Voice over Internet Protocol), la qual permet la transmissió de veu i multimèdia a través de xarxes IP com Internet. Proporciona una comprensió pràctica i teòrica del funcionament de la telefonia IP, incloent la configuració, diagnosi de problemes mitjançant l'ús de Wireshark, i l'avaluació de la qualitat de servei
+
+- Carpeta general: [Laboratori 5 - Telefonia IP](https://github.com/Mariona-FT/Multimedia-Networks-XAMU/tree/main/Laboratoris/Laboratori%205%20-%20Telefonia%20IP)
+  - Informe Laboratori 1 (amb Previ) : [Laboratori 5 - Telefonia IP .pdf](https://github.com/Mariona-FT/Multimedia-Networks-XAMU/blob/main/Laboratoris/Laboratori%205%20-%20Telefonia%20IP/Laboratori%205%20-%20Telefonia%20IP.pdf)
+  -  Captures del wireshark dels exercicis: previ 8, 1, 2, 4, 5, 7, 8, 10 i 11
+  
 
 ## Autora
 
