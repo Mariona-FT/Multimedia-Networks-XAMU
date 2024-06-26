@@ -25,7 +25,15 @@ En aquest primer laboratori, ens centrarem en la qualitat de servei (QoS) en la 
   - Informe Laboratori 1(amb previ) : [Laboratori 1 - QoS i serveis audiovisuals.pdf](https://github.com/Mariona-FT/Multimedia-Networks-XAMU/blob/main/Laboratoris/Laboratori%201-%20QoS/Laboratori%201%20-%20QoS%20i%20serveis%20audiovisuals.pdf)
   -  Captures del wireshark dels exercicis: 1, 2, 3 i 4
 
+#### Laboratori 2: Compressió d'Àudio
+Aquest laboratori tracta sobre la compressió d'àudio, una tècnica crucial per reduir la mida dels fitxers d'àudio mantenint una qualitat acceptable. Es treballa amb formats de compressió tant amb pèrdua com sense pèrdua, explorant diferents còdecs i la seva aplicació pràctica.
 
+- Carpeta general: [Laboratori 2 - Àudio](https://github.com/Mariona-FT/Multimedia-Networks-XAMU/tree/main/Laboratoris/Laboratori%202%20-%20%C3%80udio)
+  - Informe Laboratori 2 : [Laboratori 2 - Compressió d'Àudio.pdf](https://github.com/Mariona-FT/Multimedia-Networks-XAMU/blob/main/Laboratoris/Laboratori%202%20-%20%C3%80udio/Laboratori%202%20-%20Compressi%C3%B3%20d'%C3%80udio.pdf)
+  - Previ Laboratori 2: [Previ Laboratori 2 - Compressió d'Àudio.pdf ](https://github.com/Mariona-FT/Multimedia-Networks-XAMU/blob/main/Laboratoris/Laboratori%202%20-%20%C3%80udio/Previ%20Laboratori%202%20-%20Compressi%C3%B3%20d'%C3%80udio.pdf)
+  -  Captures del wireshark dels exercicis: 2, 5 i 6
+ 
+  
 ## Autora
 
 Aquest repositori ha estat creat per [Mariona Farré](https://github.com/Mariona-FT) 
