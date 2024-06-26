@@ -18,13 +18,12 @@ Les entregues i exercicis de l'assignatura de Xarxes Multimèdia cobreixen una v
 
 ### Laboratoris:
 
-#### Laboratori 1: Creació de Time Thieves
-Configuració inicial dels TT, amb enfocament en la gestió de processos i comunicació entre processos.
+#### Laboratori 1: QoS i serveis Audiovisuals
+En aquest primer laboratori, ens centrarem en la qualitat de servei (QoS) en la transmissió de serveis audiovisuals sobre xarxes IP. L'objectiu principal és comprendre com es poden influenciar i millorar les condicions de transmissió de dades audiovisuals mitjançant diverses tècniques i eines de QoS. Es realitzaran diverses activitats pràctiques, que inclouen anàlisi de fitxers, emulació de condicions de xarxa, i l'ús d'eines de diagnòstic per avaluar l'impacte de diferents paràmetres de QoS.
 
-- Carpeta general: [Lab1-Capitol](https://github.com/Mariona-FT/Operating-Systems-SIOP/tree/main/Lab1-Capitol)
-  - Resultats: [Resultats_Lab 1.pdf](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Lab1-Capitol/Resultats_Lab%201.pdf)
-  - Readme amb comandes: [README.md](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Lab1-Capitol/README.md)
-
+- Carpeta general: [Laboratori 1 - QoS](https://github.com/Mariona-FT/Multimedia-Networks-XAMU/tree/main/Laboratoris/Laboratori%201-%20QoS)
+  - Informe Laboratori 1(amb previ) : [Laboratori 1 - QoS i serveis audiovisuals.pdf](https://github.com/Mariona-FT/Multimedia-Networks-XAMU/blob/main/Laboratoris/Laboratori%201-%20QoS/Laboratori%201%20-%20QoS%20i%20serveis%20audiovisuals.pdf)
+  -  Captures del wireshark dels exercicis: 1, 2, 3 i 4
 
 
 ## Autora
